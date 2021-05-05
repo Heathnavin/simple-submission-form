@@ -1,0 +1,17 @@
+body{
+	background-color:#C94848; 
+}
+
+	.container
+{
+	text-align: center;
+	margin-left: 500x;
+}
+h1
+{
+	font-variant-caps: all-petite-caps;
+	font-family: arial;
+	padding: 16x;
+	text-align: center;
+	color: white;
+}
